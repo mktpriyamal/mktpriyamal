@@ -3,7 +3,7 @@
 As a Full-Stack Engineer with over 6 years of experience in software development and delivery, I have a proven track record of delivering projects on time, within budget, and to the highest standards. I am proficient in programming languages such as Java, HTML, CSS, JavaScript, and Android, and I am experienced in using frameworks such as Spring Boot, Hibernate, Spring, Bootstrap, JQuery, React.js, and Web Services. I have hands-on experience working with databases such as Oracle, MSSQL, and MySQL, and I am familiar with DevOps tools like Jenkins, Ant Tool, Web Server, and OS.
 
 ### 🌐 Socials:
-<a href="https://www.linkedin.com/in/mktpriyamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/thisarapriyamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:k.thisara@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ### Language Skills
