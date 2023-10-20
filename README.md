@@ -33,7 +33,7 @@ As a Full-Stack Engineer with over 7 years of experience in software development
 
 ### Technical Lead
 **HCL Technologies Private Limited**  
-*November 5, 2022 – Present*
+*May 11, 2022 – September 15, 2023*
 
 ### Associate Consultant (Senior Software Engineer)
 **Virtusa Private Limited**  
