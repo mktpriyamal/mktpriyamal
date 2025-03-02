@@ -1,6 +1,6 @@
 # Thisara Priyamal - Fullstack Developer 
 ### 💫 About Me: [![](https://visitcount.itsvg.in/api?id=mktpriyamal&icon=5&color=1)](https://visitcount.itsvg.in)
-As a Full-Stack Engineer with over 7 years of experience in software development and delivery, I have a proven track record of delivering projects on time, within budget, and to the highest standards. I am proficient in programming languages such as Java, HTML, CSS, JavaScript, and Android, and I am experienced in using frameworks such as Spring Boot, Hibernate, Spring, Bootstrap, JQuery, React.js, and Web Services. I have hands-on experience working with databases such as Oracle, MSSQL, and MySQL, and I am familiar with DevOps tools like Jenkins, Ant Tool, Web Server, and OS.
+As a Full-Stack Engineer with over 8+ years of experience in software development and delivery, I have a proven track record of delivering projects on time, within budget, and to the highest standards. I am proficient in programming languages such as Java, HTML, CSS, JavaScript, and Android, and I am experienced in using frameworks such as Spring Boot, Hibernate, Spring, Bootstrap, JQuery, React.js, and Web Services. I have hands-on experience working with databases such as Oracle, MSSQL, and MySQL, and I am familiar with DevOps tools like Jenkins, Ant Tool, Web Server, and OS.
 
 ### 🌐 Socials:
 <a href="https://www.linkedin.com/in/thisarapriyamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
