@@ -5,8 +5,6 @@
   ### 🚀 Lead Full-Stack Engineer | AI Integration Specialist
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=9%2B+Years+of+Experience;Java%2FSpring+Boot+Expert;Next.js+%26+React+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
-
- <img src="https://visitcount.itsvg.in/api?id=mktpriyamal&icon=5&color=1)](https://visitcount.itsvg.in" alt="Typing SVG" />
 </div>
 
 ---
@@ -203,11 +201,7 @@ focus_areas: ["AI Integration", "Full-Stack Development", "Team Leadership"]
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mktpriyamal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="24%"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mktpriyamal&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="50%"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mktpriyamal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="24%"/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mktpriyamal&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" width="98%"/>
 
