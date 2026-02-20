@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=9%2B+Years+of+Experience;Java%2FSpring+Boot+Expert;Next.js+%26+React+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
   
   <img src="https://visitcount.itsvg.in/api?id=mktpriyamal&icon=5&color=1&label=Profile%20Views" alt="Profile Views">
-  
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mktpriyamal.mktpriyamal)
 </div>
 
 ---
