@@ -6,6 +6,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=9%2B+Years+of+Experience;Java%2FSpring+Boot+Expert;Next.js+%26+React+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
 </div>
+[![](https://visitcount.itsvg.in/api?id=mktpriyamal&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ---
 
@@ -200,6 +201,10 @@ focus_areas: ["AI Integration", "Full-Stack Development", "Team Leadership"]
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=mktpriyamal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mktpriyamal&theme=city_light&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mktpriyamal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
   <img src="https://github-readme-stats.vercel.app/api?username=mktpriyamal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
   
